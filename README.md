@@ -7,8 +7,6 @@ public static void main (String args[])
 
 
 System.out.println(" welcome");
-System.out.println("11111111111111111111");
-
 }
 
 }
